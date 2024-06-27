@@ -42,10 +42,11 @@ To get started with this project, follow these steps:
 3) Tap the "Calculate" button to see your BMI result and weight category.
 
 ### Screenshots
-![Screenshot_1719484650](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/eec18d6f-5fc4-43e5-8002-94a459069ab2)
-![Screenshot_1719484641](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/1f7d4019-df7c-4e9b-bb4d-2b64f0432f6e)
-![Screenshot_1719484632](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/120ffe42-8bcd-4d22-9458-397dd5cf2c5f)
-![Screenshot_1719484596](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/a9ed3e65-7d2f-4bc2-9265-df1e1c7af9fa)
+<img src="https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/eec18d6f-5fc4-43e5-8002-94a459069ab2" alt="Screenshot 1" width="300">
+<img src="https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/1f7d4019-df7c-4e9b-bb4d-2b64f0432f6e" alt="Screenshot 2" width="300">
+<img src="https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/120ffe42-8bcd-4d22-9458-397dd5cf2c5f" alt="Screenshot 3" width="300">
+<img src="https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/a9ed3e65-7d2f-4bc2-9265-df1e1c7af9fa" alt="Screenshot 4" width="300">
+
 
 
 
