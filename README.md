@@ -28,3 +28,34 @@ To get started with this project, follow these steps:
    ```sh
    git clone https://github.com/KareemJaradah/BMI-Calculator.git
    cd bmi_calculator
+2. Install the dependencies:
+   ```sh
+   flutter pub get
+2. Run the app:
+   ```sh
+   flutter run
+
+### Usage
+
+1) Enter your weight in kilograms in the weight input field.
+2) Enter your height in centimeters in the height input field.
+3) Tap the "Calculate" button to see your BMI result and weight category.
+
+### Screenshots
+![Screenshot_1719484650](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/eec18d6f-5fc4-43e5-8002-94a459069ab2)
+![Screenshot_1719484641](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/1f7d4019-df7c-4e9b-bb4d-2b64f0432f6e)
+![Screenshot_1719484632](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/120ffe42-8bcd-4d22-9458-397dd5cf2c5f)
+![Screenshot_1719484596](https://github.com/KareemJaradah/BMI-Calculator/assets/90826550/a9ed3e65-7d2f-4bc2-9265-df1e1c7af9fa)
+
+
+
+### Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
